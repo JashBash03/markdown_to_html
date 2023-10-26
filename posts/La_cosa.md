@@ -2,7 +2,7 @@
 
 ## [De Historias de miedo para contar en la oscuridad, de Alvin Schwartz].
 
-
+![La cosa saliendo del campo](/images/la_cosa_del_campo.jpg)
 
 Ted Martin y Sam Miller eran buenos amigos. Ambos pasaban mucho tiempo juntos. En esa noche en particular estaban sentados sobre una valla cerca de la oficina de correos hablando sobre nada en particular.
 
