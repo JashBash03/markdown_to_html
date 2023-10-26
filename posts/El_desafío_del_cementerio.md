@@ -1,6 +1,6 @@
 # El desafío del cementerio
 
-### [De Tened miedo… Mucho miedo. El libro de las leyendas urbanas de terror, de Jan Harold Brunvand].
+## [De Tened miedo… Mucho miedo. El libro de las leyendas urbanas de terror, de Jan Harold Brunvand].
 
 ![Cementerio que da mucho yuyu](/images/cementerio.jpg)
 
