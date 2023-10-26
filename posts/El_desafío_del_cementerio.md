@@ -10,4 +10,4 @@ Una de las chicas se burló de aquella idea, así que las otras la desafiaron a 
 
 Pero pasó una hora, y otra más, sin que tuvieran noticias de su amiga. Se quedaron en la cama despiertas, cada vez más aterradas. Llegó la mañana y la chica no había aparecido. Aquel mismo día, los padres de la chica regresaron a casa y, junto al resto de padres, acudieron al cementerio. Encontraron a la chica tirada sobre la tumba… Muerta. Al agacharse para clavar la estaca en el suelo, había pillado también el bajo de su falda. Cuando intentó levantarse y no pudo, creyó que el viejo muerto la había agarrado. Murió del susto en el acto.
 
-![Inicio](/index.md)
+[Inicio](/index.md)

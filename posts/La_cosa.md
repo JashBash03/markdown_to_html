@@ -16,4 +16,4 @@ Se acercó y escudriñó su rostro. Tenía unos ojos brillantes y maliciosos pro
 
 Un año más tarde Ted enfermó y murió. En sus últimos momentos, Sam se quedó con él todas las noches. La noche en que Ted murió, Sam dijo que su aspecto era exactamente igual al del esqueleto.
 
-![Inicio](/index.md)
+[Inicio](/index.md)
